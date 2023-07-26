@@ -13,8 +13,8 @@ import machine
 import time
 import network
 
-#import envUser.conf
-#import envModule
+
+#machine.RTC.datetime()
 
 global internal_tree
 
