@@ -1,1 +1,5 @@
 .vscode
+.idea
+.dist
+.micropythonrc
+.DS_Store
